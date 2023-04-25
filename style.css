@@ -1,0 +1,27 @@
+body{
+    background-image: url(ima.jpeg);
+    background-size: cover;
+    display: grid;
+}
+.caro{
+    display: inline-block;
+
+}
+.infos{
+    display: flex;
+    color: white;
+    
+}
+.hot{
+ display: flex;
+ margin-left: 850px;
+ 
+}
+.rot{
+    text-align: center;
+    color: white;
+    font-size: 15px;
+}
+.milieu{
+    font-size: 25px;
+}
